@@ -1,7 +1,7 @@
 # hello-world
-存储想法资源
+存储一些想法资源
 
-目前学习的内容
+目前想学习的内容
 ## python
 ### python基本使用 列表 字典 函数 类 文件IO re os
 ### python常用库 numpy matplotlib
